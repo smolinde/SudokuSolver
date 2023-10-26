@@ -1,5 +1,5 @@
 # Sudoku Solver
-[![Latest Stable Version](https://img.shields.io/?label=version)](https://github.com/smolinde/SudokuSolver/releases/latest)
+[![Latest Stable Version](https://img.shields.io/badge/a-green?label=version)](https://github.com/smolinde/SudokuSolver/releases/latest)
 ## About
 The SudokuSolver is a Java Application which tries to solve a Sudoku when at least 17 numbers were given. It uses a recursive approach and does not always find a solution. The program shall not search longer than a minute for a solution, therefore it does not guarantee solving any Sudoku.
 ## Usage
