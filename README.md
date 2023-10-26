@@ -1,4 +1,5 @@
 # Sudoku Solver
+[![Latest Stable Version](https://img.shields.io/packagist/v/phplicengine/bitly?label=version)](https://packagist.org/packages/phplicengine/bitly)
 ## About
 The SudokuSolver is a Java Application which tries to solve a Sudoku when at least 17 numbers were given. It uses a recursive approach and does not always find a solution. The program shall not search longer than a minute for a solution, therefore it does not guarantee solving any Sudoku.
 ## Usage
