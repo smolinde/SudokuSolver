@@ -27,3 +27,4 @@ replay_pid*
 bin/
 .classpath
 .project
+!SudokuSolver.jar
